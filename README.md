@@ -23,14 +23,14 @@
 
 <br>
 
-<h3 align="center">🚀 Operations</h3>
+<h3 align="center">🚀 Open Source Initiatives</h3>
 
 <div align="center">
 
-| 🤖 AI & Agents | 💹 Finance Tech | 🔌 IoT & Hardware | 📱 Full-Stack |
-|:---:|:---:|:---:|:---:|
-| [**AntigravityLift**](https://github.com/qqkiller-programmer-myself-2006/AntigravityLift-IDE) | [**Trading Systems**](https://github.com/qqkiller-programmer-myself-2006/Trading_Systems) | [**Farm Phones**](https://github.com/qqkiller-programmer-myself-2006/Farm_Phones) | [**Mobile App**](https://github.com/qqkiller-programmer-myself-2006/Mobile-Application) |
-| *IDE Context* | *MT5 + Python* | *MQTT + C++* | *TypeScript* |
+| 🤖 Custom Developer IDE | 📱 Cross-Platform Mobile Apps |
+|:---:|:---:|
+| [**AntigravityLift-IDE**](https://github.com/qqkiller-programmer-myself-2006/AntigravityLift-IDE) | [**Mobile Application**](https://github.com/qqkiller-programmer-myself-2006/Mobile-Application) |
+| *TypeScript / Electron* | *TypeScript / React Native Frameworks* |
 
 </div>
 
