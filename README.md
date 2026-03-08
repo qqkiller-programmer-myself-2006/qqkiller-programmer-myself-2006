@@ -24,15 +24,16 @@
 
 <br><br>
 
-### 🚀 Ｏｐｅｎ  Ｓｏｕｒｃｅ
+### 📂 Ｐｒｏｊｅｃｔ  Ｔｙｐｅｓ
 
 <p align="center">
-  <a href="https://github.com/qqkiller-programmer-myself-2006/AntigravityLift-IDE">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qqkiller-programmer-myself-2006&repo=AntigravityLift-IDE&theme=radical&hide_border=false&border_radius=10" alt="AntigravityLift-IDE" width="45%" />
-  </a>
-  <a href="https://github.com/qqkiller-programmer-myself-2006/Mobile-Application">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qqkiller-programmer-myself-2006&repo=Mobile-Application&theme=radical&hide_border=false&border_radius=10" alt="Mobile-Application" width="45%" />
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack_Web-5-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Full-Stack Web" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-4-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" alt="Mobile Apps" />
+  <img src="https://img.shields.io/badge/AI_%26_Agents-3-00D9FF?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" alt="AI & Agents" />
+  <br><br>
+  <img src="https://img.shields.io/badge/CLI_%26_Tools-3-00D9FF?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117" alt="CLI & Tools" />
+  <img src="https://img.shields.io/badge/IoT_%26_Hardware-2-00D9FF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117" alt="IoT & Hardware" />
+  <img src="https://img.shields.io/badge/Trading_Systems-1-00D9FF?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=0D1117" alt="Trading Systems" />
 </p>
 
 <br><br>
