@@ -28,10 +28,10 @@
 
 <p align="center">
   <a href="https://github.com/qqkiller-programmer-myself-2006/AntigravityLift-IDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qqkiller-programmer-myself-2006&repo=AntigravityLift-IDE&theme=radical&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF" alt="AntigravityLift-IDE" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qqkiller-programmer-myself-2006&repo=AntigravityLift-IDE&theme=radical&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF" alt="AntigravityLift-IDE" width="45%" />
   </a>
   <a href="https://github.com/qqkiller-programmer-myself-2006/Mobile-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qqkiller-programmer-myself-2006&repo=Mobile-Application&theme=radical&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF" alt="Mobile-Application" width="45%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qqkiller-programmer-myself-2006&repo=Mobile-Application&theme=radical&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF" alt="Mobile-Application" width="45%" />
   </a>
 </p>
 
@@ -40,18 +40,14 @@
 ### 📊 Ａｎａｌｙｔｉｃｓ
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qqkiller-programmer-myself-2006&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqkiller-programmer-myself-2006&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qqkiller-programmer-myself-2006&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qqkiller-programmer-myself-2006&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=A0AEC0&title_color=FFFFFF&border_radius=10" height="170" />
 </p>
 
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qqkiller-programmer-myself-2006/qqkiller-programmer-myself-2006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qqkiller-programmer-myself-2006/qqkiller-programmer-myself-2006/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qqkiller-programmer-myself-2006/qqkiller-programmer-myself-2006/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qqkiller-programmer-myself-2006&theme=radical&background=0D1117&border=00D9FF&font_color=A0AEC0&dates=00D9FF&ring=00D9FF" height="170" />
 </p>
 
 <br>
