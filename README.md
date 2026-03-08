@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,14,21&height=220&section=header&text=qqkiller&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Architecting%20Intelligence%20&%20Systems&descAlignY=65&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9D%AF+System.out.println(%22Building+High-Performance+Systems%22);%E2%9D%AF+AI_Agent.deploy(%22Automating+Workflows%22);%E2%9D%AF+IoT.connect(%22Bridging+Hardware+%26+Software%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=%E2%9D%AF+System.out.println(%22Building+High-Performance+Systems%22);%E2%9D%AF+AI_Agent.deploy(%22Automating+Workflows%22);%E2%9D%AF+IoT.connect(%22Bridging+Hardware+%26+Software%22))](https://git.io/typing-svg)
 
 <br>
 
@@ -27,13 +27,13 @@
 ### 📂 Ｐｒｏｊｅｃｔ  Ｔｙｐｅｓ
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Web-5-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Full-Stack Web" />
-  <img src="https://img.shields.io/badge/Mobile_Apps-4-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" alt="Mobile Apps" />
-  <img src="https://img.shields.io/badge/AI_%26_Agents-3-00D9FF?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" alt="AI & Agents" />
+  <img src="https://img.shields.io/badge/Full--Stack_Web-5-0366D6?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Web" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-4-0366D6?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Apps" />
+  <img src="https://img.shields.io/badge/AI_%26_Agents-3-0366D6?style=for-the-badge&logo=probot&logoColor=white" alt="AI & Agents" />
   <br><br>
-  <img src="https://img.shields.io/badge/CLI_%26_Tools-3-00D9FF?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117" alt="CLI & Tools" />
-  <img src="https://img.shields.io/badge/IoT_%26_Hardware-2-00D9FF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117" alt="IoT & Hardware" />
-  <img src="https://img.shields.io/badge/Trading_Systems-1-00D9FF?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=0D1117" alt="Trading Systems" />
+  <img src="https://img.shields.io/badge/CLI_%26_Tools-3-0366D6?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI & Tools" />
+  <img src="https://img.shields.io/badge/IoT_%26_Hardware-2-0366D6?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT & Hardware" />
+  <img src="https://img.shields.io/badge/Trading_Systems-1-0366D6?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Trading Systems" />
 </p>
 
 <br><br>
@@ -41,14 +41,14 @@
 ### 📊 Ａｎａｌｙｔｉｃｓ
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qqkiller-programmer-myself-2006&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qqkiller-programmer-myself-2006&layout=compact&theme=radical&hide_border=false&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qqkiller-programmer-myself-2006&show_icons=true&hide_border=false&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qqkiller-programmer-myself-2006&layout=compact&hide_border=false&border_radius=10" height="170" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qqkiller-programmer-myself-2006&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qqkiller-programmer-myself-2006" height="170" />
 </p>
 
 <br>
