@@ -47,70 +47,27 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Freelance Templates Architecture
 
-<table>
-<tr>
-<td align="center" width="25%">
+I'm building a complete **Next.js template system** for freelancers to deploy to clients:
 
-**🔗 Link in Bio**  
-Personal link hub — dark theme, animated, bilingual  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/link-in-bio)
+- 🎯 **Reference Implementation** — Template 01 (Service Business)
+- 📦 **8 Business Templates** — Clinic, Restaurant, Real Estate, Course, Corporate, Retail, Booking
+- 🔒 **Admin Backend UI** — Client manages content via `/admin`
+- 📱 **Public Frontend** — Professional landing pages at `/`
+- 🗄️ **SQLite + Prisma** — Self-contained, zero external dependencies
+- 🚀 **VPS/Docker Ready** — Full control, persistent filesystem
 
-</td>
-<td align="center" width="25%">
+**Full architecture documentation:** See [`TEMPLATES_ARCHITECTURE_REVIEW.md`](./TEMPLATES_ARCHITECTURE_REVIEW.md)
 
-**📱 QR Menu**  
-Digital restaurant menu via QR code — config-driven  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/qr-menu)
+### Tech Stack
 
-</td>
-<td align="center" width="25%">
-
-**🧾 Invoice Generator**  
-Professional invoice builder with PDF export  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/invoice-generator)
-
-</td>
-<td align="center" width="25%">
-
-**🌳 Linktree Clone**  
-Fully customizable Linktree alternative  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/linktree-clone)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-**💼 Portfolio Site**  
-Dev portfolio with projects & contact section  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/portfolio-site)
-
-</td>
-<td align="center" width="25%">
-
-**🎉 Event Page**  
-Event landing with countdown & registration  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/event-page)
-
-</td>
-<td align="center" width="25%">
-
-**🚀 Coming Soon**  
-Countdown page with email capture  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/coming-soon)
-
-</td>
-<td align="center" width="25%">
-
-**🛒 Freelance Templates**  
-Template marketplace storefront (Next.js 14)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/qqkiller-programmer-myself-2006/freelance-templates)
-
-</td>
-</tr>
-</table>
+- **Next.js 14** (App Router + Server Components)
+- **TypeScript** + **Tailwind CSS**
+- **Prisma ORM** + **SQLite**
+- **Custom Auth** (cookie sessions)
+- **Image Upload** (local `/public/uploads/`)
+- **Responsive Design** (mobile-first)
 
 ---
 
