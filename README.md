@@ -21,87 +21,176 @@
 
 ## 👨‍💻 เกี่ยวกับผม &nbsp;|&nbsp; About Me
 
-- 🚀 **Full Stack Developer** รับสร้างเว็บไซต์ แอปมือถือ และระบบ Custom ทุกประเภท  
-  &nbsp;&nbsp;&nbsp;&nbsp;*Building websites, mobile apps, and custom systems of all kinds*
-- 💡 ประสบการณ์จริงจากโปรเจกต์จริง · ราคาเป็นมิตร · ส่งงานตรงเวลา  
-  &nbsp;&nbsp;&nbsp;&nbsp;*Real experience from real projects · Friendly pricing · On-time delivery*
-- 🌏 ตั้งอยู่ที่ประเทศไทย พร้อมรับงานจากทั่วโลก  
-  &nbsp;&nbsp;&nbsp;&nbsp;*Based in Thailand, working with clients worldwide*
-- 🎯 เชี่ยวชาญ Next.js · TypeScript · Tailwind CSS · Node.js/Bun · MySQL/PostgreSQL/SQLite  
-  &nbsp;&nbsp;&nbsp;&nbsp;*Specializing in Next.js · TypeScript · Tailwind CSS · Node.js/Bun · MySQL/PostgreSQL/SQLite*
+> #### 🚀 Full Stack Developer
+> - ✅ สร้างเว็บไซต์ & Landing Pages
+> - ✅ พัฒนา API Backend ที่มีประสิทธิภาพ
+> - ✅ ระบบ Custom ทุกประเภท
+
+> #### 💡 Why Choose Me?
+> - 🎯 ประสบการณ์จริงจากโปรเจกต์จริง
+> - 💰 ราคาเป็นมิตร · ทำงานตรงเวลา
+> - 🌍 พร้อมรับงานจากทั่วโลก (ตั้งในไทย 🇹🇭)
+> - ⚡ Responsive · Clean Code · Modern Stack
+
+> #### 🛠️ My Expertise
+> - 🎨 **Frontend:** Next.js 14 · React · TypeScript · Tailwind CSS
+> - 🔧 **Backend:** Node.js · Bun · Express
+> - 💾 **Database:** MySQL · PostgreSQL · SQLite
+> - 🔐 **Features:** Auth · File Upload · Real-time · API
+> - 📦 **Deployment:** Docker · VPS · Cloud Ready
 
 ---
 
-## 💼 บริการ Freelance &nbsp;|&nbsp; Freelance Services
+## 💼 บริการ Freelance &nbsp;|&nbsp; Services & Pricing
 
-### 🎯 Service Types
+---
 
-| 🛠️ บริการ / Service | 📝 รายละเอียด / Details |
-|---|---|
-| 🌐 **Website Custom** | Corporate sites, Portfolio, Business websites with CMS admin panel |
-| 🎨 **Landing Page Custom** | High-converting landing pages, Product launches, Campaign pages |
-| ⚙️ **Dev API Backend** | RESTful APIs, Microservices, Real-time WebSocket APIs, Payment integration |
+### 🎯 บริการหลัก (Main Services)
 
-### 💰 Pricing Plans
+#### 🌐 **Website Custom**
+> ✨ สร้างเว็บไซต์ที่มีคุณภาพสูง
+> - ✅ Corporate websites & Business sites
+> - ✅ Portfolio websites
+> - ✅ E-commerce platforms
+> - ✅ Admin panel & CMS integration
+> - ✅ Responsive & SEO-friendly
 
-| Plan | Price Range | Scope | Features |
-|---|---|---|---|
-| **⭐ Start Plan** | **฿350 - ฿1,500** | Small projects | Simple landing pages, basic website (1-5 pages), single API endpoint |
-| **🚀 Mid Plan** | **฿1,500 - ฿5,500** | Medium projects | Full website with admin panel, advanced API (3-10 endpoints), database integration |
-| **💎 Higher Plan** | **฿5,500+** | Enterprise projects | Complex systems, multiple APIs, scalable architecture, custom features, long-term support |
+#### 🎨 **Landing Page Custom**
+> 🚀 Landing pages ที่ convert ได้ดี
+> - ✅ Product launches & Campaigns
+> - ✅ High-converting design
+> - ✅ Fast loading & Mobile-first
+> - ✅ Analytics integration
+> - ✅ Call-to-action optimization
 
-### 🛠️ Tech Stack Per Service
+#### ⚙️ **Dev API Backend**
+> 🔧 Backend systems & APIs
+> - ✅ RESTful & GraphQL APIs
+> - ✅ Real-time WebSocket features
+> - ✅ Payment & Third-party integration
+> - ✅ Database design & optimization
+> - ✅ Security & Rate limiting
 
-**Website & Landing Pages:**
-- Next.js 14+ · TypeScript · Tailwind CSS
-- Database: MySQL / PostgreSQL / SQLite
-- Runtime: Node.js / Bun
-- Admin Panel: Custom dashboard with content management
+---
 
-**API Backend:**
-- Next.js App Router Server Actions or Express.js
-- TypeScript for type safety
-- MySQL / PostgreSQL (production) or SQLite (simple)
-- RESTful or GraphQL APIs
-- Authentication & Authorization
-- Rate limiting & Security
+### 💰 Pricing Plans (3 Tiers)
 
-> 💬 ราคากำหนดตามความซับซ้อน · *Prices vary based on complexity, features, and timeline*
+#### **⭐ Start Plan: ฿350 - ฿1,500**
+> สำหรับ Small Projects
+> - 🎯 Simple landing pages (1-3 sections)
+> - 🎯 Basic website (1-5 pages)
+> - 🎯 Single API endpoint
+> - 🎯 Static or simple database
+> - 🎯 Standard design template
+
+#### **🚀 Mid Plan: ฿1,500 - ฿5,500**
+> สำหรับ Medium Projects
+> - 🎯 Full website with CMS admin panel
+> - 🎯 Advanced API (3-10 endpoints)
+> - 🎯 Database integration (MySQL/PostgreSQL)
+> - 🎯 User authentication system
+> - 🎯 Custom design & branding
+> - 🎯 File upload & media management
+
+#### **💎 Higher Plan: ฿5,500+**
+> สำหรับ Enterprise Projects
+> - 🎯 Complex web systems & platforms
+> - 🎯 Multiple APIs & microservices
+> - 🎯 Scalable architecture
+> - 🎯 Advanced features (payments, analytics, etc.)
+> - 🎯 Custom solutions & integrations
+> - 🎯 Long-term support & maintenance
+> - 🎯 Performance optimization & monitoring
+
+---
+
+### 🛠️ Tech Stack per Service
+
+#### **Website & Landing Pages**
+```
+Frontend:  Next.js 14 → React → TypeScript → Tailwind CSS
+Backend:   Node.js / Bun → API routes / Server Actions
+Database:  MySQL / PostgreSQL / SQLite (choose per need)
+Admin:     Custom dashboard with content management
+Extra:     Authentication, Image upload, Analytics
+```
+
+#### **API Backend**
+```
+Runtime:   Node.js / Bun → Express.js / Next.js API
+Language:  TypeScript (type-safe)
+Database:  MySQL / PostgreSQL (production) or SQLite
+API Type:  RESTful or GraphQL
+Security:  JWT / Sessions, Rate limiting, Input validation
+Deploy:    Docker, VPS, Cloud platforms
+```
+
+---
+
+> 💬 **ราคากำหนดตามความซับซ้อน**  
+> *Prices vary based on complexity, features, timeline, and scope*
 
 ---
 
 ## 🏗️ Freelance Templates Architecture
 
-I'm building a complete **Next.js template system** for freelancers to deploy to clients:
+> 📚 **Building a complete Next.js template system**  
+> Ready-to-deploy solutions for freelancers → scale to clients
 
-### 📦 Template Categories
+---
 
-- **Custom Websites** — Business sites with admin CMS panel
-- **Custom Landing Pages** — High-converting marketing pages
-- **API Backends** — RESTful/GraphQL APIs with database integration
+### 📦 What's Included?
 
-### 🎯 Template Features
+#### **Template Features**
+> - ✨ **Admin Backend UI** — Content management at `/admin`
+> - 📱 **Public Frontend** — Professional pages at `/`
+> - 🔐 **Authentication System** — User login & sessions
+> - 📤 **File Upload** — Image/media handling with validation
+> - 🗄️ **Database Flexibility** — MySQL, PostgreSQL, SQLite
+> - 🚀 **Production Ready** — Docker + VPS deployment
+> - 🎨 **Responsive Design** — Mobile-first, modern UI
+> - ⚡ **Performance** — Optimized & fast loading
 
-- 🔒 **Admin Backend UI** — Client manages content via `/admin`
-- 📱 **Public Frontend** — Professional pages at `/`
-- 🗄️ **Multiple DB Support** — MySQL, PostgreSQL, SQLite (choose per project)
-- 🚀 **VPS/Docker Ready** — Full control, persistent filesystem
-- 🔐 **Authentication** — User login & session management
-- 📤 **File Upload** — Image/file handling with validation
+---
 
-**Full architecture documentation:** See [`TEMPLATES_ARCHITECTURE_REVIEW.md`](./TEMPLATES_ARCHITECTURE_REVIEW.md)
+### 🛠️ Full Tech Stack
 
-### 🛠️ Complete Tech Stack
+> #### **🎨 Frontend**
+> - Next.js 14 (App Router)
+> - React 19
+> - TypeScript
+> - Tailwind CSS
+> - Modern animations & UX
 
-| Category | Technologies |
-|---|---|
-| **Frontend** | Next.js 14, React, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Bun, Express (optional) |
-| **Database** | MySQL, PostgreSQL, SQLite (pick per project) |
-| **ORM** | Prisma (flexible schema management) |
-| **Authentication** | Custom sessions, OAuth ready |
-| **Deployment** | Docker, VPS, Cloud (any platform) |
-| **Type Safety** | TypeScript end-to-end |
+> #### **🔧 Backend & Runtime**
+> - Node.js / Bun
+> - Express.js (optional)
+> - Next.js API Routes
+> - Server Actions
+
+> #### **💾 Database Layer**
+> - MySQL (production apps)
+> - PostgreSQL (scalable)
+> - SQLite (simple/dev)
+> - Prisma ORM (all databases)
+
+> #### **🔐 Security & Auth**
+> - Custom session management
+> - OAuth ready
+> - Input validation (Zod)
+> - Rate limiting
+> - HTTPS ready
+
+> #### **📦 Deployment**
+> - Docker containerization
+> - VPS/Cloud support
+> - CI/CD ready
+> - Environment configuration
+> - Zero-downtime updates
+
+---
+
+📖 **Full documentation:** [`TEMPLATES_ARCHITECTURE_REVIEW.md`](./TEMPLATES_ARCHITECTURE_REVIEW.md)
 
 ---
 
@@ -119,18 +208,32 @@ I'm building a complete **Next.js template system** for freelancers to deploy to
 
 ---
 
-## 📬 ติดต่อ &nbsp;|&nbsp; Contact
+## 📬 ติดต่อ &nbsp;|&nbsp; Contact & Collaboration
+
+---
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 💼 **Fastwork** | [fastwork.co/user/qqkiller](https://fastwork.co/user/qqkiller) |
-| 💬 **Line** | [@qqkiller](https://line.me/ti/p/@qqkiller) |
-| 📧 **Email** | [qqkiller.programmer.myself.2006@gmail.com](mailto:qqkiller.programmer.myself.2006@gmail.com) |
-| 🐙 **GitHub** | [qqkiller-programmer-myself-2006](https://github.com/qqkiller-programmer-myself-2006) |
+### 🟢 **พร้อมรับงานใหม่เสมอ · Open to new projects**
 
-**พร้อมรับงานใหม่เสมอ 🟢 &nbsp;|&nbsp; Open to new projects 🟢**
+#### ⭐ Contact Channels
+
+| Platform | Link | Response Time |
+|---|---|---|
+| 💼 **Fastwork** | [fastwork.co/user/qqkiller](https://fastwork.co/user/qqkiller) | ⚡ ~1 hour |
+| 💬 **Line** | [@qqkiller](https://line.me/ti/p/@qqkiller) | ⚡ ~30 min |
+| 📧 **Email** | [qqkiller.programmer.myself.2006@gmail.com](mailto:qqkiller.programmer.myself.2006@gmail.com) | ⚡ ~2 hours |
+| 🐙 **GitHub** | [qqkiller-programmer-myself-2006](https://github.com/qqkiller-programmer-myself-2006) | 📌 Code only |
+
+---
+
+#### 💡 **How to Get Started**
+
+1️⃣ **Describe your project** — Share details & requirements  
+2️⃣ **Discuss timeline** — Agree on delivery date  
+3️⃣ **Confirm pricing** — Get estimate & confirmation  
+4️⃣ **Start development** — Regular updates & communication  
+5️⃣ **Launch & support** — Deploy & post-launch support  
 
 </div>
 
