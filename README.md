@@ -7,11 +7,13 @@
 **Full Stack Developer · Thailand 🇹🇭 · Available for Freelance**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Bun](https://img.shields.io/badge/Bun-fbd000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh)
+[![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 
 </div>
 
@@ -25,25 +27,46 @@
   &nbsp;&nbsp;&nbsp;&nbsp;*Real experience from real projects · Friendly pricing · On-time delivery*
 - 🌏 ตั้งอยู่ที่ประเทศไทย พร้อมรับงานจากทั่วโลก  
   &nbsp;&nbsp;&nbsp;&nbsp;*Based in Thailand, working with clients worldwide*
-- 🎯 เชี่ยวชาญ Next.js · React Native · TypeScript · Firebase · Tailwind CSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;*Specializing in Next.js · React Native · TypeScript · Firebase · Tailwind CSS*
+- 🎯 เชี่ยวชาญ Next.js · TypeScript · Tailwind CSS · Node.js/Bun · MySQL/PostgreSQL/SQLite  
+  &nbsp;&nbsp;&nbsp;&nbsp;*Specializing in Next.js · TypeScript · Tailwind CSS · Node.js/Bun · MySQL/PostgreSQL/SQLite*
 
 ---
 
 ## 💼 บริการ Freelance &nbsp;|&nbsp; Freelance Services
 
-| 🛠️ บริการ / Service | 📝 รายละเอียด / Details | 💰 ราคาเริ่มต้น / Starting Price |
-|---|---|---|
-| 🌐 เว็บไซต์ / Website | Landing page, Corporate site, Portfolio | **1,500 ฿+** |
-| 📱 แอปมือถือ / Mobile App | React Native, iOS & Android | **5,000 ฿+** |
-| 🖥️ Landing Page | High-converting marketing pages | **800 ฿+** |
-| ⚙️ ระบบ Custom / Custom System | Full-stack web apps, dashboards, APIs | **10,000 ฿+** |
-| 🔗 Link in Bio Page | Personal link hub with custom theme | **500 ฿+** |
-| 📋 QR Menu | Digital menu for restaurants & cafés | **800 ฿+** |
-| 🧾 Invoice Generator | Online invoice & billing system | **1,500 ฿+** |
-| 🎉 Event Page | Event landing page with countdown | **800 ฿+** |
+### 🎯 Service Types
 
-> 💬 ราคาขึ้นอยู่กับความซับซ้อน · *Prices vary based on complexity*
+| 🛠️ บริการ / Service | 📝 รายละเอียด / Details |
+|---|---|
+| 🌐 **Website Custom** | Corporate sites, Portfolio, Business websites with CMS admin panel |
+| 🎨 **Landing Page Custom** | High-converting landing pages, Product launches, Campaign pages |
+| ⚙️ **Dev API Backend** | RESTful APIs, Microservices, Real-time WebSocket APIs, Payment integration |
+
+### 💰 Pricing Plans
+
+| Plan | Price Range | Scope | Features |
+|---|---|---|---|
+| **⭐ Start Plan** | **฿350 - ฿1,500** | Small projects | Simple landing pages, basic website (1-5 pages), single API endpoint |
+| **🚀 Mid Plan** | **฿1,500 - ฿5,500** | Medium projects | Full website with admin panel, advanced API (3-10 endpoints), database integration |
+| **💎 Higher Plan** | **฿5,500+** | Enterprise projects | Complex systems, multiple APIs, scalable architecture, custom features, long-term support |
+
+### 🛠️ Tech Stack Per Service
+
+**Website & Landing Pages:**
+- Next.js 14+ · TypeScript · Tailwind CSS
+- Database: MySQL / PostgreSQL / SQLite
+- Runtime: Node.js / Bun
+- Admin Panel: Custom dashboard with content management
+
+**API Backend:**
+- Next.js App Router Server Actions or Express.js
+- TypeScript for type safety
+- MySQL / PostgreSQL (production) or SQLite (simple)
+- RESTful or GraphQL APIs
+- Authentication & Authorization
+- Rate limiting & Security
+
+> 💬 ราคากำหนดตามความซับซ้อน · *Prices vary based on complexity, features, and timeline*
 
 ---
 
@@ -51,23 +74,34 @@
 
 I'm building a complete **Next.js template system** for freelancers to deploy to clients:
 
-- 🎯 **Reference Implementation** — Template 01 (Service Business)
-- 📦 **8 Business Templates** — Clinic, Restaurant, Real Estate, Course, Corporate, Retail, Booking
+### 📦 Template Categories
+
+- **Custom Websites** — Business sites with admin CMS panel
+- **Custom Landing Pages** — High-converting marketing pages
+- **API Backends** — RESTful/GraphQL APIs with database integration
+
+### 🎯 Template Features
+
 - 🔒 **Admin Backend UI** — Client manages content via `/admin`
-- 📱 **Public Frontend** — Professional landing pages at `/`
-- 🗄️ **SQLite + Prisma** — Self-contained, zero external dependencies
+- 📱 **Public Frontend** — Professional pages at `/`
+- 🗄️ **Multiple DB Support** — MySQL, PostgreSQL, SQLite (choose per project)
 - 🚀 **VPS/Docker Ready** — Full control, persistent filesystem
+- 🔐 **Authentication** — User login & session management
+- 📤 **File Upload** — Image/file handling with validation
 
 **Full architecture documentation:** See [`TEMPLATES_ARCHITECTURE_REVIEW.md`](./TEMPLATES_ARCHITECTURE_REVIEW.md)
 
-### Tech Stack
+### 🛠️ Complete Tech Stack
 
-- **Next.js 14** (App Router + Server Components)
-- **TypeScript** + **Tailwind CSS**
-- **Prisma ORM** + **SQLite**
-- **Custom Auth** (cookie sessions)
-- **Image Upload** (local `/public/uploads/`)
-- **Responsive Design** (mobile-first)
+| Category | Technologies |
+|---|---|
+| **Frontend** | Next.js 14, React, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Bun, Express (optional) |
+| **Database** | MySQL, PostgreSQL, SQLite (pick per project) |
+| **ORM** | Prisma (flexible schema management) |
+| **Authentication** | Custom sessions, OAuth ready |
+| **Deployment** | Docker, VPS, Cloud (any platform) |
+| **Type Safety** | TypeScript end-to-end |
 
 ---
 
