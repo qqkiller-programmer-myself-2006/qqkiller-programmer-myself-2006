@@ -33,14 +33,23 @@
   <img src="https://img.shields.io/badge/HTML_%26_CSS-071426?style=for-the-badge&logo=html5&logoColor=F97316" alt="HTML and CSS">
 </div>
 
-## Selected Work
+## Featured Projects
 
-| Project | Focus |
+| Project | What it shows |
 |---|---|
-| [AI-WorkSpace](https://github.com/qqkiller-programmer-myself-2006/AI-WorkSpace) | AI operating-system architecture workspace |
-| [AI-RouterGateWay](https://github.com/qqkiller-programmer-myself-2006/AI-RouterGateWay) | AI infrastructure and gateway platform |
-| [DevStation](https://github.com/qqkiller-programmer-myself-2006/DevStation) | Local development environment for application tooling |
-| [Roplays_Web](https://github.com/qqkiller-programmer-myself-2006/Roplays_Web) | Roleplay web app with chat and character features |
+| [AI-WorkSpace](https://github.com/qqkiller-programmer-myself-2006/AI-WorkSpace) | AI operating-system architecture and systems thinking |
+| [AI-RouterGateWay](https://github.com/qqkiller-programmer-myself-2006/AI-RouterGateWay) | AI infrastructure, gateway design, and platform direction |
+| [DevStation](https://github.com/qqkiller-programmer-myself-2006/DevStation) | Desktop developer tooling with Tauri, Rust, and React |
+| [Roplays_Web](https://github.com/qqkiller-programmer-myself-2006/Roplays_Web) | TypeScript web app with Next.js, Prisma, chat, and character features |
+
+## More in the Lab
+
+| Project | Direction |
+|---|---|
+| [skills-qqkiller](https://github.com/qqkiller-programmer-myself-2006/skills-qqkiller) | Reusable AI-agent skills for backend, full-stack, QA, security, and orchestration |
+| [qqkiller-hyprland-dotfiles](https://github.com/qqkiller-programmer-myself-2006/qqkiller-hyprland-dotfiles) | Hyprland and Linux developer-environment customization |
+
+> Some linked projects are currently private, so their repository pages require GitHub access.
 
 ## Contribution Trail
 
