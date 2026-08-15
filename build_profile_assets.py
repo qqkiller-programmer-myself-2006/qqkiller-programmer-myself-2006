@@ -72,15 +72,19 @@ def rows(
     label_colour: str,
     value_colour: str,
     value_x: int,
+    row_offset: int,
     spacing: int = 40,
 ) -> str:
     markup: list[str] = []
     for index, (label, value) in enumerate(items):
         yy = y + index * spacing
+        row_id = row_offset + index
         markup.append(
-            f'''<text x="{x}" y="{yy}" class="label" fill="{label_colour}">{label}</text>
-            <line x1="{x + 148}" y1="{yy - 6}" x2="{value_x - 250}" y2="{yy - 6}" class="leader" />
-            <text x="{value_x}" y="{yy}" class="value" text-anchor="end" textLength="{min(280, max(72, int(len(value) * 9.2)))}" lengthAdjust="spacingAndGlyphs" fill="{value_colour}">{value}</text>'''
+            f'''<g clip-path="url(#type{row_id})">
+              <text x="{x}" y="{yy}" class="label" fill="{label_colour}">{label}</text>
+              <line x1="{x + 148}" y1="{yy - 6}" x2="{value_x - 250}" y2="{yy - 6}" class="leader" />
+              <text x="{value_x}" y="{yy}" class="value" text-anchor="end" textLength="{min(280, max(72, int(len(value) * 9.2)))}" lengthAdjust="spacingAndGlyphs" fill="{value_colour}">{value}</text>
+            </g>'''
         )
     return "\n".join(markup)
 
@@ -102,6 +106,7 @@ def build_banner(theme: str) -> str:
     }
     avatar_file = ASSETS / ("avatar-dither-dark.png" if is_dark else "avatar-dither-light.png")
     avatar = "data:image/png;base64," + base64.b64encode(avatar_file.read_bytes()).decode("ascii")
+    typing_duration = 29.0
     left_items = [
         ("NAME", "IQ · THIRAPHAT"),
         ("ROLE", "Full-Stack Developer"),
@@ -114,8 +119,34 @@ def build_banner(theme: str) -> str:
         ("BACKEND", "Node.js · Express.js · Python"),
         ("DATA", "MySQL · PHP"),
     ]
-    identity_rows = rows(left_items, 500, 165, colours["cyan"], colours["text"], 1082)
-    stack_rows = rows(right_items, 500, 377, colours["green"], colours["text"], 1082)
+    row_positions = [165, 205, 245, 285, 377, 417, 457, 497]
+    all_items = left_items + right_items
+    typing_masks = []
+    for row_id, (row_y, (label, value)) in enumerate(zip(row_positions, all_items)):
+        line_length = max(12, len(label) + len(value) + 3)
+        start = 0.8 + row_id * 3.0
+        typing_time = min(2.55, max(1.55, line_length * 0.085))
+        reveal_end = start + typing_time
+        reset_start = 25.7
+        key_times = [0.0, start / typing_duration]
+        values = [0, 0]
+        for char_index in range(1, line_length + 1):
+            key_times.append(start / typing_duration + (reveal_end - start) * char_index / line_length / typing_duration)
+            values.append(round(606 * char_index / line_length))
+        key_times.extend([reset_start / typing_duration, 1.0])
+        values.extend([606, 0])
+        key_text = ";".join(f"{value:.4f}" for value in key_times)
+        value_text = ";".join(str(value) for value in values)
+        typing_masks.append(
+            f'''<clipPath id="type{row_id}" clipPathUnits="userSpaceOnUse">
+      <rect x="492" y="{row_y - 22}" width="606" height="32">
+        <animate attributeName="width" values="{value_text}" keyTimes="{key_text}" calcMode="discrete" dur="{typing_duration:.1f}s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>'''
+        )
+    typing_masks = "\n".join(typing_masks)
+    identity_rows = rows(left_items, 500, 165, colours["cyan"], colours["text"], 1082, row_offset=0)
+    stack_rows = rows(right_items, 500, 377, colours["green"], colours["text"], 1082, row_offset=4)
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
   <title id="title">IQ — Full-Stack Developer profile banner</title>
@@ -125,6 +156,7 @@ def build_banner(theme: str) -> str:
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="11" flood-color="{colours['shadow']}" flood-opacity=".35"/></filter>
     <clipPath id="avatarClip"><rect x="55" y="114" width="366" height="424" rx="10"/></clipPath>
     <pattern id="microGrid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="{colours['edge']}" stroke-opacity=".25" stroke-width="1"/></pattern>
+    {typing_masks}
     <style>
       .mono {{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }}
       .label {{ font: 700 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: .55px; }}
