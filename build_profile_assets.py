@@ -106,28 +106,28 @@ def build_banner(theme: str) -> str:
     }
     avatar_file = ASSETS / ("avatar-dither-dark.png" if is_dark else "avatar-dither-light.png")
     avatar = "data:image/png;base64," + base64.b64encode(avatar_file.read_bytes()).decode("ascii")
-    typing_duration = 29.0
+    typing_duration = 27.0
     left_items = [
-        ("NAME", "IQ · THIRAPHAT"),
-        ("ROLE", "Full-Stack Developer"),
-        ("LOCATION", "Loei, Thailand"),
-        ("EDUCATION", "CS Year 3 · Loei Rajabhat"),
+        ("USER", "IQ · THIRAPHAT"),
+        ("ROLE", "FULL-STACK DEV"),
+        ("BASE", "LOEI, THAILAND"),
+        ("LEVEL", "CS YEAR 3 · RAJABHAT"),
     ]
     right_items = [
-        ("FOCUS", "Web · Backend · API · Mobile"),
-        ("FRONTEND", "React · Next.js · Tailwind"),
-        ("BACKEND", "Node.js · Express.js · Python"),
-        ("DATA", "MySQL · PHP"),
+        ("FOCUS", "WEB · API · MOBILE"),
+        ("CRAFT", "REACT · NEXT · TAILWIND"),
+        ("ENGINE", "NODE · EXPRESS · PYTHON"),
+        ("DATA", "MYSQL · PHP"),
     ]
     row_positions = [165, 205, 245, 285, 377, 417, 457, 497]
     all_items = left_items + right_items
     typing_masks = []
     for row_id, (row_y, (label, value)) in enumerate(zip(row_positions, all_items)):
         line_length = max(12, len(label) + len(value) + 3)
-        start = 0.8 + row_id * 3.0
-        typing_time = min(2.55, max(1.55, line_length * 0.085))
+        start = 0.45 + row_id * 2.35
+        typing_time = min(2.30, max(1.25, line_length * 0.075))
         reveal_end = start + typing_time
-        reset_start = 25.7
+        reset_start = 24.2
         key_times = [0.0, start / typing_duration]
         values = [0, 0]
         for char_index in range(1, line_length + 1):
